@@ -106,3 +106,27 @@ gap: 8px;
 .p-second{
   text-align: center;
 }
+/* style for the third section*/
+.third-section{
+  background-color: #E5E7EB;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h3{
+  font-size: 32px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1F2937;
+  text-align: center;
+}
+.p-third{
+  font-size: 18px;
+  text-align: end;
+}
+#p-third{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 300px;
+}
