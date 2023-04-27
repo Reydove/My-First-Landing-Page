@@ -174,3 +174,12 @@ h4{
   border: 1px solid white;
   border-radius: 10px;
 }
+/*footer*/
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  color: #F9FAF8;
+  height: 75px;
+}
